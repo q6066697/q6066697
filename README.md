@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Привет, я Алексей
 
-<!--
-**q6066697/q6066697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я разработчик, специализирующийся на:
+- 🤖 разработке ботов (Telegram)
+- 🧠 интеграциях с LLM (OpenAI, LangChain, RAG)
+- ⚙️ backend-автоматизации и API
 
-Here are some ideas to get you started:
+Интересуюсь практическим применением AI, созданием умных ассистентов и автоматизацией бизнес-процессов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Навыки и технологии
+
+**Языки программирования:**
+- Python
+- JavaScript (базово)
+
+**Боты и автоматизация:**
+- Telegram Bot API  
+- aiogram  
+- FSM, middleware  
+- Webhook / polling
+
+**LLM и AI:**
+- OpenAI API  
+- LangChain  
+- Prompt engineering  
+- RAG (FAISS / Chroma)
+
+**Backend и инструменты:**
+- FastAPI, Flask  
+- PostgreSQL, SQLite  
+- Docker  
+- Git, GitHub
+
+---
+
+## 📌 Избранные проекты
+
+🔹 **AI Telegram Bot**  
+Интеллектуальный Telegram-бот с поддержкой LLM, диалоговой памяти и расширяемой архитектуры.  
+`Python · aiogram · OpenAI · LangChain`
+
+🔹 **LLM Integration Service**  
+Сервис для интеграции LLM в приложения и ботов.  
+`FastAPI · OpenAI · Async`
+
+🔹 **Automation Bot**  
+Бот для автоматизации рутинных задач и сценариев.  
+`Python · Telegram Bot API`
+
+_(Проекты закреплены в профиле и содержат полные README с описанием, стеком, инструкциями и скриншотами)_
+
+---
+
+## 📊 Статистика GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=q6066697&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=q6066697&layout=compact)
+
+---
+
+## 📫 Контакты
+
+- Telegram: https://t.me/AllAllAis  
+- Email: q6066697@gmail.com
