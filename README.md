@@ -5,7 +5,11 @@
 
 Мой фокус — **Telegram, OpenAI, интеграции со специалистами, CRM и платёжными системами**.  
 Работаю быстро, думаю продуктово и довожу прототипы до продакшена.
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ---
 
 ## 🚀 Текущее направление
