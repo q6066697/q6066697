@@ -127,8 +127,8 @@ _(Проекты закреплены в профиле, каждый — с п�
 
 ## 📊 Статистика GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=q6066697&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=q6066697&layout=compact)
+![GitHub stats](https://github-readme-stats-zeta-three-39.vercel.app/api?username=q6066697&show_icons=true)
+![Top Langs](https://github-readme-stats-zeta-three-39.vercel.app/api/top-langs/?username=q6066697&layout=compact)
 
 ---
 
