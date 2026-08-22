@@ -26,8 +26,26 @@
 
 ## 🛠️ Используемые технологии
 
-**Основной стек:**  
-`Python · C# · Flask / FastAPI · Aiogram · PostgreSQL · Redis · OpenAI API`
+Основной стек:
+Python · C# · Flask / FastAPI · Aiogram · PostgreSQL · Redis · OpenAI API
+
+AI / LLM:
+Anthropic Claude API · LangChain · LangGraph · Langfuse (observability) · vLLM (self-hosted inference) · MCP
+
+RAG / векторные БД:
+Qdrant · pgvector · FAISS
+
+No-code / low-code:
+n8n · Dify · Flowise · Make
+
+Инфраструктура:
+Docker · Git / GitHub · Linux (VDS-администрирование) · nginx · SSL
+
+Frontend (базово):
+React · TypeScript · Next.js · Supabase
+
+Автоматизация:
+ZennoPoster (браузерная автоматизация, парсинг) · Playwright
 
 ---
 
