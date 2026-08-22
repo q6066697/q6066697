@@ -97,19 +97,31 @@ ZennoPoster (браузерная автоматизация, парсинг) ·
 
 ## 📌 Избранные проекты
 
-🔹 **AI Telegram Bot**  
-AI-бот с LLM, сценариями, памятью и возможностью масштабирования под бизнес.  
-`Python · Aiogram · OpenAI · PostgreSQL`
+🔹 **LangGraph ReAct Agent**
+ИИ-агент с веб-поиском (Tavily), tool calling и обязательным цитированием источников.
+Упакован в production-сервис: FastAPI + Docker, наблюдаемость через Langfuse
+(трейсинг вызовов, токены, стоимость, latency по шагам).
+`Python · LangGraph · LangChain · FastAPI · Docker · Langfuse`
 
-🔹 **Business Automation Bot**  
-Автоматизация обработки заявок, клиентов и процессов через Telegram.  
-`FastAPI · Redis · Webhooks`
+🔹 **RAG Eval Service**
+Production RAG-сервис: гибридный поиск (dense + BM25 + RRF), reranking,
+собственный eval-харнесс на бенчмарке NFCorpus (nDCG, recall, MRR).
+Честный кейс «measure, don't assume» — наивный hybrid не побил dense,
+основной прирост качества дал reranking (+8% nDCG).
+`Python · Qdrant · Hybrid Search · Cross-Encoder Reranking · BEIR`
 
-🔹 **LLM Integration Service**  
-Backend-сервис для подключения LLM к продуктам и ботам.  
-`Python · OpenAI API · Async`
+🔹 **RAG MCP Server**
+MCP-сервер, оборачивающий гибридный поиск как инструмент для AI-агентов —
+три MCP-инструмента (search, get_document, rerank), проверено через MCP Inspector.
+`Python · MCP SDK · Qdrant · pytest`
 
-_(Проекты закреплены в профиле и содержат полные README с описанием задач, стеком, инструкциями и скриншотами.)_
+🔹 **AI Commercial Proposal Assistant**
+Ассистент для автоматизации коммерческих предложений: документ → извлечение данных 
+→ детерминированный расчёт цены → готовый DOCX. CLI + Streamlit UI.
+`Python · Streamlit · DOCX-генерация`
+
+_(Проекты закреплены в профиле, каждый — с полным README: архитектура, 
+разбор решений, метрики, скриншоты.)_
 
 ---
 
