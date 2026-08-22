@@ -1,10 +1,14 @@
 # 👋 Привет, я Алексей
 
-Я **Vibe Coder и бэкенд-разработчик**.  
-Собираю **AI-ботов, автоматизацию и аккуратный backend** для цифрового бизнеса.
+Vibe Coder, Backend-разработчик & Промпт-инженер
 
-Мой фокус — **Telegram, OpenAI, интеграции со специалистами, CRM и платёжными системами**.  
-Работаю быстро, думаю продуктово и довожу прототипы до продакшена.
+Строю AI-агентов и backend через диалог с ИИ — не потому что не умею иначе, 
+а потому что это быстрее и я знаю, где ИИ врёт, а где можно доверять.
+Промпты — не заклинания, а инженерный инструмент: пишу, тестирую, итерирую.
+
+Специализация: Telegram-боты, промпт-инжиниринг, интеграции OpenAI/Claude, 
+CRM, платёжные системы.
+От идеи до продакшена — сам, без прослойки менеджеров.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
